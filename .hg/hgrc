@@ -1,0 +1,3 @@
+[paths]
+default = http://hg.openjdk.java.net/jdk8u/jdk8u
+github = hg::https://git@github.com/koutheir/incinerator-hotspot.git
