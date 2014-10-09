@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# From .hgignore
+^build/
+^dist/
+nbproject/private/
+^webrev
+^.hgtip
+^.bridge2
+.DS_Store
